@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    background-color: darkkhaki;
+}
+
+h3{
+    color: navy;
+    font-style: italic;
+}
+
+li {
+    text-align: left;
+}
+
+.link {
+    color: black;
+    font-weight: 600;
+}
+
+#front {
+    text-align: center;
+    background-color: lightblue;
+}
