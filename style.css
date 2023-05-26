@@ -3,12 +3,16 @@
 }
 
 h1 {
-    background-color: darkkhaki;
+    background-color: darkgoldenrod;
 }
 
 h3{
     color: navy;
     font-style: italic;
+    border: solid darkgoldenrod;
+    width: max-content;
+    margin: 0px auto;
+    padding: 2px;
 }
 
 li {
@@ -23,4 +27,8 @@ li {
 #front {
     text-align: center;
     background-color: lightblue;
+    padding: 3px;
+    margin: 30%;
+    margin-top: 0%;
+    border: 1px solid black;
 }
